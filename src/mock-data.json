@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Shaun",
+    "last_name": "Giraudot",
+    "email": "sgiraudot0@goodreads.com",
+    "gender": "Agender",
+    "ip_address": "201.59.57.7"
+  },
+  {
+    "id": 2,
+    "first_name": "Sancho",
+    "last_name": "Zima",
+    "email": "szima1@github.com",
+    "gender": "Genderqueer",
+    "ip_address": "166.76.215.122"
+  },
+  {
+    "id": 3,
+    "first_name": "Lyda",
+    "last_name": "Reisk",
+    "email": "lreisk2@jimdo.com",
+    "gender": "Agender",
+    "ip_address": "23.234.199.170"
+  },
+  {
+    "id": 4,
+    "first_name": "Deb",
+    "last_name": "Ruvel",
+    "email": "druvel3@posterous.com",
+    "gender": "Male",
+    "ip_address": "165.143.93.76"
+  },
+  {
+    "id": 5,
+    "first_name": "Joellen",
+    "last_name": "Margiotta",
+    "email": "jmargiotta4@google.com.au",
+    "gender": "Non-binary",
+    "ip_address": "222.60.96.240"
+  },
+  {
+    "id": 6,
+    "first_name": "Doro",
+    "last_name": "Maisey",
+    "email": "dmaisey5@nifty.com",
+    "gender": "Polygender",
+    "ip_address": "176.131.55.181"
+  },
+  {
+    "id": 7,
+    "first_name": "Dalila",
+    "last_name": "Macknish",
+    "email": "dmacknish6@plala.or.jp",
+    "gender": "Female",
+    "ip_address": "57.222.48.221"
+  },
+  {
+    "id": 8,
+    "first_name": "Jillie",
+    "last_name": "Durman",
+    "email": "jdurman7@hostgator.com",
+    "gender": "Genderfluid",
+    "ip_address": "82.11.24.205"
+  },
+  {
+    "id": 9,
+    "first_name": "Zackariah",
+    "last_name": "Sharpe",
+    "email": "zsharpe8@typepad.com",
+    "gender": "Polygender",
+    "ip_address": "96.226.68.118"
+  },
+  {
+    "id": 10,
+    "first_name": "Alberik",
+    "last_name": "Josham",
+    "email": "ajosham9@stanford.edu",
+    "gender": "Genderqueer",
+    "ip_address": "156.61.133.195"
+  }
+]
